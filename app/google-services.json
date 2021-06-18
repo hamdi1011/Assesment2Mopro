@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673271122512",
+    "project_id": "assesment2mopro",
+    "storage_bucket": "assesment2mopro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673271122512:android:054c6994f9712836709f55",
+        "android_client_info": {
+          "package_name": "com.itdev.aplikasicrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673271122512-cncfa04apoo7gj10dvkcv7unl5e97e3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX26OFymjmkOrPqR1MolpiBIXbY6lcyKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673271122512-cncfa04apoo7gj10dvkcv7unl5e97e3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
